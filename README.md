@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB3D9,50:FF69B4,100:C2185B&height=220&section=header&text=Mallika%20Suri&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Designer%20%C2%B7%20Developer%20%C2%B7%20Chaotic%20Good&descSize=18&descAlignY=68&descColor=FFE4F0" width="100%"/>
+</div>
 
-<!--
-**snowhiteohno/snowhiteohno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF79C6&center=true&vCenter=true&width=700&lines=CS+%40+BITS+Pilani+%C3%97+Scaler+School+of+Tech;Batch+of+2029+-+yes%2C+I'm+that+young.;JavaScript+%C2%B7+React+%C2%B7+Node+%C2%B7+Figma+%C2%B7+Vibes;17+y%2Fo+%26+already+shipping+real+software.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```bash
+$ whoami
+───────────────────────────────────────
+  Mallika Suri  ✿
+  BITS Pilani - B.Sc. Computer Science
+  Scaler School of Technology · Batch 2029
+───────────────────────────────────────
+  Focus   → Full-Stack · UI/UX · Product
+  Editor  → VS Code with a pink theme, obviously
+  Status  → 17 and somehow shipping 🌸
+───────────────────────────────────────
+```
+
+---
+
+## Current Status
+
+```javascript
+const mallika = {
+  age:          "17 (yes, really)",
+  learning:     ["Full-Stack Dev", "System Design", "how to sleep"],
+  aesthetic:    "clean UI that slaps AND functions",
+  currentTab:   "three design references and a half-written component",
+  personality:  ["chaotically organised", "caffeinated", "will refactor your life"],
+  notLookingFor: ["boring problems", "ugly UIs"],
+};
+```
+
+---
+
+## Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,java&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,figma,vite&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,git,github,vercel&theme=dark&perline=6" />
+</div>
+
+---
+
+
+## Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snowhiteohno&theme=radical&hide_border=true&background=0d0117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowhiteohno&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d0117&title_color=FF79C6&text_color=F9A8D4" width="38%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snowhiteohno&bg_color=0d0117&color=FF79C6&line=FF79C6&point=ffffff&area=true&area_color=FF79C6&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+
+*17 years old. Building things. Unbothered.* 🌸
+
+</div>
