@@ -33,8 +33,8 @@ const mallika = {
   learning:     ["Full-Stack Dev", "System Design", "how to sleep"],
   aesthetic:    "clean UI that slaps AND functions",
   currentTab:   "three design references and a half-written component",
-  personality:  ["chaotically organised", "caffeinated", "will refactor your life"],
-  notLookingFor: ["boring problems", "ugly UIs"],
+  personality:  ["O(1) rizz", "segfaults other people's plans", "git blame? that's on you"],
+notLookingFor: ["O(n²) solutions", "ugly UI", "people who use light mode"],
 };
 ```
 
