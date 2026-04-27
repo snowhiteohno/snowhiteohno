@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF79C6&center=true&vCenter=true&width=700&lines=CS+%40+BITS+Pilani+%C3%97+Scaler+School+of+Tech;Batch+of+2029+;JavaScript+%C2%B7+React+%C2%B7+Node+%C2%B7+Figma+%C2%B7+Vibes;shipping+real+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF79C6&center=true&vCenter=true&width=700&lines=CS+%40+BITS+Pilani+%C3%97+Scaler+School+of+Tech;Batch+of+2029+;JavaScript+%C2%B7+React+%C2%B7+Node+%C2%B7+Figma+%C2%B7+Vibes;Shipping+real+software.)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,6 +67,6 @@ notLookingFor: ["O(n²) solutions", "ugly UI", "people who use light mode"],
 
 <div align="center">
 
-* Building things. Unbothered.* 🌸
+*Building things. Unbothered.* 🌸
 
 </div>
