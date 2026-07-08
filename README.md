@@ -1,72 +1,97 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB3D9,50:FF69B4,100:C2185B&height=220&section=header&text=Mallika%20Suri&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Designer%20%C2%B7%20Developer%20%C2%B7%20Chaotic%20Good&descSize=18&descAlignY=68&descColor=FFE4F0" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Mallika Suri"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF79C6&center=true&vCenter=true&width=700&lines=CS+%40+BITS+Pilani+%C3%97+Scaler+School+of+Tech;Batch+of+2029+;JavaScript+%C2%B7+React+%C2%B7+Node+%C2%B7+Figma+%C2%B7+Vibes;Shipping+real+software.)](https://git.io/typing-svg)
+✿ &nbsp;CS @ BITS Pilani × Scaler School of Technology &nbsp;·&nbsp; Class of 2029 &nbsp;·&nbsp; Bengaluru&nbsp; ✿
+
+*I build games, models, and interfaces that behave. Sometimes all at once.*
 
 </div>
 
----
+<div align="center"><img src="./divider.svg" width="80%" alt="✿"/></div>
 
-```bash
-$ whoami
-───────────────────────────────────────
-  Mallika Suri  ✿
-  BITS Pilani - B.Sc. Computer Science
-  Scaler School of Technology · Batch 2029
-───────────────────────────────────────
-  Focus   → Full-Stack · UI/UX · Product
-  Editor  → VS Code with a pink theme, obviously
-  Status  → Somehow shipping 🌸
-───────────────────────────────────────
-```
-
----
-
-## Current Status
+## ❀ The Grimoire
 
 ```javascript
-const mallika = {
-  learning:     ["Full-Stack Dev", "System Design", "how to sleep"],
-  aesthetic:    "clean UI that slaps AND functions",
-  currentTab:   "three design references and a half-written component",
-  personality:  ["O(1) rizz", "segfaults other people's plans", "git blame? that's on you"],
-notLookingFor: ["O(n²) solutions", "ugly UI", "people who use light mode"],
-};
+// ~/grimoire/summon.js
+const mallika = await conjure({
+  title:     "software gremlin, occasional designer",
+  studying:  ["CS @ BITS Pilani", "CS @ Scaler School of Technology"],
+  building:  ["games in Godot", "NLP for Indic languages", "UIs that behave"],
+  brewing:   "GSoC 2027",
+  rizz:      "O(1)",
+  chaos:     "segfaults other people's plans",
+  weakness:  ["ugly UI", "O(n²) solutions", "people who use light mode"],
+});
 ```
 
----
+<div align="center"><img src="./divider.svg" width="80%" alt="✿"/></div>
 
-## Stack
+## ❀ Spells I've Cast
+
+<div align="center">
+
+![](https://img.shields.io/badge/1st%20Place-Daydream%20Hackathon-FF4FA3?style=for-the-badge&labelColor=5E0A38)
+![](https://img.shields.io/badge/Top%2050-Meta%20%C3%97%20HF%20PyTorch-FF69B4?style=for-the-badge&labelColor=5E0A38)
+![](https://img.shields.io/badge/Top%2010-Polaris%20%C3%97%20Replit-FF8FC7?style=for-the-badge&labelColor=5E0A38)
+
+</div>
+
+| Spell | What it does | The result |
+| :--- | :--- | :--- |
+| 🥇 **The Bleeding Path** | a game, conjured in Godot | 1st of 2,000+ · Daydream Hackathon |
+| 🏆 **CrashBerry** | an ML build from the PyTorch trials | Top 50 of 8,000+ · Meta × Hugging Face |
+| 🔟 **CodeSentinel** | an AI agent loosed on Replit's Agentverse | Top 10 · Polaris × Replit |
+
+**Also brewing:** Vionex AI · Pomodoro Garden (a cozy focus timer) · Hindi Sentiment Analysis (benchmarking MuRIL, mBERT, IndicBERTv2) · DistroNet
+
+<div align="center"><img src="./divider.svg" width="80%" alt="✿"/></div>
+
+## ❀ The Ongoing Quest
+
+Currently venturing into open source and prepping for **GSoC 2027**. Scouting realms like **Mifos Initiative** and **MetaBrainz**, one good first issue at a time. The map is still being drawn. 🌸
+
+<div align="center"><img src="./divider.svg" width="80%" alt="✿"/></div>
+
+## ❀ Beyond the Spellbook
+
+- 🎀 **ARCA** &nbsp;·&nbsp; leading and mentoring the incoming batch of SST juniors
+- 📚 **Project Kitaab** &nbsp;·&nbsp; Creative Designer for a Delhi-based education access NGO
+
+<div align="center"><img src="./divider.svg" width="80%" alt="✿"/></div>
+
+## ❀ In My Satchel
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,java&theme=dark&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,figma,vite&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,figma,godot&theme=dark&perline=6" />
 <br/>
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,git,github,vercel&theme=dark&perline=6" />
 </div>
 
----
+<div align="center"><img src="./divider.svg" width="80%" alt="✿"/></div>
 
-
-## Stats
+## ❀ The Enchanted Ledger
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snowhiteohno&theme=radical&hide_border=true&background=0d0117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowhiteohno&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d0117&title_color=FF79C6&text_color=F9A8D4" width="38%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snowhiteohno&theme=radical&hide_border=true&background=2E0A2E&ring=FF69B4&fire=FF8FC7&currStreakLabel=FF69B4&sideLabels=F9A8D4&dates=B07595" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowhiteohno&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=2E0A2E&title_color=FF69B4&text_color=F9A8D4" width="38%"/>
+</div>
+
+<div align="center"><img src="./divider.svg" width="80%" alt="✿"/></div>
+
+## ❀ Send a Raven
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mallika--surii-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5E0A38)](https://linkedin.com/in/mallika-surii)
+[![Instagram](https://img.shields.io/badge/Instagram-canmallickalolipop-FF8FC7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=5E0A38)](https://instagram.com/canmallickalolipop)
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snowhiteohno&bg_color=0d0117&color=FF79C6&line=FF79C6&point=ffffff&area=true&area_color=FF79C6&hide_border=true" width="95%"/>
-</div>
-
----
-
-<div align="center">
-
-*Building things. Unbothered.* 🌸
-
+  <img src="./footer.svg" width="100%" alt="thanks for wandering into the enchanted repo"/>
 </div>
