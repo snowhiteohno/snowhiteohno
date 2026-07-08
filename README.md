@@ -9,7 +9,6 @@ I build games, machine learning models, and interfaces.
 
 <p align="center">
 <a href="https://linkedin.com/in/mallika-surii"><img src="https://img.shields.io/badge/LinkedIn-111317?style=flat-square&logo=linkedin&logoColor=B6747D" alt="LinkedIn"/></a>
-<a href="https://instagram.com/canmallickalolipop"><img src="https://img.shields.io/badge/Instagram-111317?style=flat-square&logo=instagram&logoColor=B6747D" alt="Instagram"/></a>
 </p>
 
 ---
