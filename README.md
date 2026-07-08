@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header(1).svg" width="100%" alt="Mallika Suri"/>
+  <img src="./header (1).svg" width="100%" alt="Mallika Suri"/>
 </div>
 
 <div align="center">
