@@ -35,8 +35,5 @@ I build narrative games, ML tooling for Indic languages, and interfaces that beh
 **ML/AI**&#160;&#160;`PyTorch` `Transformers` `MuRIL` `IndicBERT`  
 **Focus**&#160;&#160;`game dev` `Indic NLP` `interaction design`
 
-### Currently
-Preparing for **GSoC 2027**, scouting Mifos Initiative and MetaBrainz. Iterating on a WebGL portfolio in the spare hours.
-
 ### Reach out
 Best on <a href="https://linkedin.com/in/mallika-surii">LinkedIn</a> or <a href="https://instagram.com/canmallickalolipop">Instagram</a>. Open to research collaborations in Indic NLP, game dev projects, and any excuse to design something.
