@@ -1,0 +1,41 @@
+<svg viewBox="0 0 800 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="vine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D07BA6" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#D07BA6" stop-opacity="0.9"/>
+      <stop offset="0.84" stop-color="#D07BA6" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#D07BA6" stop-opacity="0"/>
+    </linearGradient>
+    <path id="dpetal" d="M0,0 C6,-3 9,-10 6,-16 C3,-20 -3,-20 -6,-16 C-9,-10 -6,-3 0,0 Z"/>
+    <path id="dspark" d="M0,-9 C1.5,-1.5 1.5,-1.5 9,0 C1.5,1.5 1.5,1.5 0,9 C-1.5,1.5 -1.5,1.5 -9,0 C-1.5,-1.5 -1.5,-1.5 0,-9 Z"/>
+  </defs>
+
+  <path d="M40,17 C200,11 300,11 380,17 C300,23 200,23 40,17 Z" fill="url(#vine)"/>
+  <path d="M760,17 C600,11 500,11 420,17 C500,23 600,23 760,17 Z" fill="url(#vine)"/>
+  <circle cx="150" cy="12" r="1.6" fill="#E7A8C8"/>
+  <circle cx="650" cy="22" r="1.6" fill="#E7A8C8"/>
+
+  <g transform="translate(250,17)"><g fill="#FFC2DE"><use xlink:href="#dspark" transform="scale(0.5)"/><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></g></g>
+  <g transform="translate(550,17)"><g fill="#FF9ECF"><use xlink:href="#dspark" transform="scale(0.5)"/><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></g></g>
+
+  <g transform="translate(400,17) scale(0.5)">
+    <g>
+      <g fill="#F491C0">
+        <use xlink:href="#dpetal"/>
+        <use xlink:href="#dpetal" transform="rotate(72)"/>
+        <use xlink:href="#dpetal" transform="rotate(144)"/>
+        <use xlink:href="#dpetal" transform="rotate(216)"/>
+        <use xlink:href="#dpetal" transform="rotate(288)"/>
+      </g>
+      <g fill="#E85BA0" transform="scale(0.6)">
+        <use xlink:href="#dpetal" transform="rotate(36)"/>
+        <use xlink:href="#dpetal" transform="rotate(108)"/>
+        <use xlink:href="#dpetal" transform="rotate(180)"/>
+        <use xlink:href="#dpetal" transform="rotate(252)"/>
+        <use xlink:href="#dpetal" transform="rotate(324)"/>
+      </g>
+      <circle r="3.4" fill="#C2185B"/>
+      <animateTransform attributeName="transform" type="rotate" values="-6;6;-6" dur="7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

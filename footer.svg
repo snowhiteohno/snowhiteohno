@@ -1,0 +1,51 @@
+<svg viewBox="0 0 1000 170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B0356F"/>
+      <stop offset="0.4" stop-color="#FF7EB6"/>
+      <stop offset="0.75" stop-color="#FFB8DA"/>
+      <stop offset="1" stop-color="#FFE0EF"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFF0DA" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#FFF0DA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="fg" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="2.4"/></filter>
+    <clipPath id="fcard"><rect width="1000" height="170" rx="20"/></clipPath>
+    <path id="fs" d="M0,-8 C1.4,-1.4 1.4,-1.4 8,0 C1.4,1.4 1.4,1.4 0,8 C-1.4,1.4 -1.4,1.4 -8,0 C-1.4,-1.4 -1.4,-1.4 0,-8 Z"/>
+  </defs>
+
+  <g clip-path="url(#fcard)">
+    <rect width="1000" height="170" fill="url(#dawn)"/>
+    <circle cx="500" cy="150" r="120" fill="url(#sun)"/>
+
+    <g fill="#ffffff">
+      <circle cx="120" cy="30" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="240" cy="20" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="0.7s" repeatCount="indefinite"/></circle>
+      <circle cx="800" cy="26" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="18" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(680,30)"><g fill="#FFF0F7"><use xlink:href="#fs" transform="scale(0.6)"/><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(330,36)"><g fill="#FFF0F7"><use xlink:href="#fs" transform="scale(0.5)"/><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" begin="1s" repeatCount="indefinite"/></g></g>
+
+    <path d="M-20,118 C130,96 250,124 400,108 C540,92 640,122 780,106 C900,94 980,120 1020,110 L1020,170 L-20,170 Z" fill="#C24C82" opacity="0.55"/>
+    <g fill="#A83A6C" opacity="0.55">
+      <path d="M140,110 l14,28 l-28,0 Z"/><path d="M320,102 l18,36 l-36,0 Z"/><path d="M520,108 l14,30 l-28,0 Z"/><path d="M720,104 l16,34 l-32,0 Z"/><path d="M880,112 l14,26 l-28,0 Z"/>
+    </g>
+    <path d="M-20,140 C150,120 270,146 420,130 C560,116 660,144 800,128 C910,118 980,142 1020,134 L1020,170 L-20,170 Z" fill="#8A2E5A"/>
+    <g fill="#6E1F45">
+      <path d="M80,128 l16,34 l-32,0 Z"/><path d="M220,134 l12,28 l-24,0 Z"/><path d="M360,124 l18,38 l-36,0 Z"/><path d="M520,132 l14,30 l-28,0 Z"/><path d="M660,126 l16,36 l-32,0 Z"/><path d="M820,130 l18,32 l-36,0 Z"/><path d="M940,132 l14,30 l-28,0 Z"/>
+    </g>
+
+    <g fill="#FFF3D8" filter="url(#fg)">
+      <circle r="2.4"><animate attributeName="opacity" values="0;1;0.2;1;0" dur="5s" repeatCount="indefinite"/><animateMotion path="M180,140 C240,116 300,150 240,134 C200,122 140,148 180,140 Z" dur="13s" repeatCount="indefinite"/></circle>
+      <circle r="2.2"><animate attributeName="opacity" values="0;1;0.3;1;0" dur="4.4s" begin="1.4s" repeatCount="indefinite"/><animateMotion path="M760,138 C700,114 640,152 700,136 C740,124 800,146 760,138 Z" dur="12s" repeatCount="indefinite"/></circle>
+      <circle r="2.5"><animate attributeName="opacity" values="0;1;0.2;1;0" dur="5.4s" begin="2.2s" repeatCount="indefinite"/><animateMotion path="M470,150 C520,128 560,158 500,142 C460,132 420,154 470,150 Z" dur="14s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <text x="500" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" fill="#5E0A38">the end of the scroll, but never the end of the story</text>
+    <text x="500" y="98" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="2" fill="#8A0E4E">thanks for wandering into the enchanted repo &#10047;</text>
+  </g>
+
+  <rect x="4" y="4" width="992" height="162" rx="16" fill="none" stroke="#FFF0F7" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>
