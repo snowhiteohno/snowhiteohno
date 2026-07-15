@@ -36,4 +36,4 @@ I build narrative games, ML tooling for Indic languages, and interfaces that beh
 **Focus**&#160;&#160;`game dev` `Indic NLP` `interaction design`
 
 ### Reach out
-Best on <a href="https://linkedin.com/in/mallika-surii">LinkedIn</a> or <a href="https://instagram.com/canmallickalolipop">Instagram</a>. Open to research collaborations in Indic NLP, game dev projects, and any excuse to design something.
+Best on <a href="https://linkedin.com/in/mallika-surii">LinkedIn</a> 
