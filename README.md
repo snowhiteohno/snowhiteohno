@@ -1,39 +1,71 @@
 <div align="center">
-<img src="header (1).svg" alt="Mallika Suri" width="100%"/>
+
+<img src="./assets/header.svg" alt="Mallika Suri, open source contributor" width="100%">
+
+<br>
+
+I spend most of my time in repositories I did not write.<br>
+Read the code, find the thing nobody wants to touch, leave it better than I found it.
+
+<br>
+
+❦
+
 </div>
 
-<p align="center">
-Second year CS at <b>BITS Pilani</b> &#215; <b>Scaler School of Technology</b>.<br/>
-I build narrative games, ML tooling for Indic languages, and interfaces that behave.
-</p>
+### Merged
 
-<p align="center">
-<a href="https://linkedin.com/in/mallika-surii"><img src="https://img.shields.io/badge/LinkedIn-111317?style=flat-square&logo=linkedin&logoColor=B6747D" alt="LinkedIn"/></a>
-</p>
+| Project | What landed |
+| :--- | :--- |
+| [fetch.ai / innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) | security-scanner agent |
+| GirlScript Summer of Code | Pomodoro Garden, React |
 
----
+Good first issues are a fine door to walk through. The work worth doing is usually behind a label nobody has made yet.
 
-### Building
-| Project | What it is |
-| :-- | :-- |
-| **The Bleeding Path** | Narrative horror game built in Godot. 1st of 2,000+ at Daydream Hackathon. |
-| **CrashBerry** | Machine learning project. Top 50 of 8,000+ at Meta &#215; PyTorch Hackathon. |
-| **CodeSentinel** | AI code agent. Top 10 at Polaris &#215; Replit Agentverse. |
-| **Hindi Sentiment Analysis** | Benchmarking MuRIL, mBERT, and IndicBERTv2 on Indic language sentiment tasks. |
-| **Pomodoro Garden** | A cozy focus timer with a garden that grows while you work. |
+### The seven
 
-### Selected work
-- 1st of 2,000+, **Daydream Hackathon** (The Bleeding Path in Godot)
-- Top 50 of 8,000+, **Meta &#215; PyTorch Hackathon** (CrashBerry)
-- Top 10, **Polaris &#215; Replit Agentverse** (CodeSentinel)
-- **ARCA** mentor, guiding the incoming SST batch
-- **Project Kitaab** Creative Designer, a Delhi-based education access NGO
+| | |
+| :--- | :--- |
+| languages | `Python` `TypeScript` `JavaScript` `Java` |
+| web | `React` `Next.js` `Node.js` |
+| learning machines | `PyTorch` `Transformers` `NumPy` |
+| storage | `SQL` `Postgres` |
+| worlds | `Godot` `Three.js` |
+| drawing board | `Figma` |
+| shipping | `git` `Actions` `Vercel` |
 
-### Stack
-**Languages**&#160;&#160;`Python` `TypeScript` `JavaScript` `GDScript`  
-**Frameworks**&#160;&#160;`Next.js` `React` `Tailwind` `Godot`  
-**ML/AI**&#160;&#160;`PyTorch` `Transformers` `MuRIL` `IndicBERT`  
-**Focus**&#160;&#160;`game dev` `Indic NLP` `interaction design`
+### Tales
 
-### Reach out
-Best on <a href="https://linkedin.com/in/mallika-surii">LinkedIn</a> 
+**Cotangent** · a deep learning framework written from nothing, reverse-mode autodiff included. The proof it works is a character-level GPT trained on it end to end.
+
+**rerank-lab** · [live](https://rerank-lab.vercel.app) · dense embedding search and Cohere Rerank on the same arXiv corpus, side by side. P@5 went from 0.300 to 0.500 and five relevant papers came back from beyond the dense top five. It also did nothing for one query and made another slightly worse, which is in the write-up too.
+
+**CodeSentinel** · an autonomous GitHub agent. Top 10, Polaris x Replit Agentverse.
+
+**CrashBerry** · PyTorch. Top 50 of 8000, Meta x Hugging Face hackathon.
+
+**The Bleeding Path** · a Godot game. First of 2000 plus, Daydream Hackathon.
+
+### Elsewhere
+
+Lead UI/UX designer on the official Scaler School of Technology campus app, so the information architecture and the visual system are mine to get right. Before that, web and app development intern at MYPAATHSHAALA, and creative direction for Project Kitaab, an education access NGO in Delhi.
+
+<div align="center">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=snowhiteohno&show_icons=true&hide_border=true&bg_color=150A22&title_color=E8B65A&icon_color=C1123B&text_color=FBF3E6&ring_color=E8B65A" height="150" alt="">
+
+<br><br>
+
+❦
+
+<br>
+
+[mallika.dev](https://mallika.dev) &nbsp;·&nbsp; [mallikasuri10@gmail.com](mailto:mallikasuri10@gmail.com) &nbsp;·&nbsp; [github.com/snowhiteohno](https://github.com/snowhiteohno)
+
+<br>
+
+<sub><i>white as snow, red as blood, black as ebony</i></sub>
+
+</div>
