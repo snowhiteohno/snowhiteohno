@@ -66,6 +66,6 @@ Lead UI/UX designer on the official Scaler School of Technology campus app, so t
 
 <br>
 
-<sub><i>white as snow, red as blood, black as ebony</i></sub>
+<sub><i>pure as snow, fierce as blood, dark as midnight.</i></sub>
 
 </div>
