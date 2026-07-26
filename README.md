@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Mallika Suri, open source contributor" width="100%">
+<img src="./assets/header (2).svg" alt="Mallika Suri, open source contributor" width="100%">
 
 <br>
 
