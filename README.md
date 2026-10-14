@@ -17,8 +17,11 @@ Read the code, find the thing nobody wants to touch, leave it better than I foun
 
 | Project | What landed |
 | :--- | :--- |
+| [CRIU](https://github.com/checkpoint-restore/criu) | 8 PRs in the Linux checkpoint/restore engine. TLS options across the RPC and C API surface, and a run of silent data loss fixes in tmpfs. |
 | [fetch.ai / innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) | security-scanner agent |
 | GirlScript Summer of Code | Pomodoro Garden, React |
+
+CRIU saves the contents of a tmpfs by shelling out to `tar`. It wasn't passing `--xattrs`, so extended attributes disappeared across a checkpoint. Nor `--acls`, so POSIX ACLs and file capabilities went with them. Nothing warned. Each fix ships with a regression test that fails before it and passes after.
 
 Good first issues are a fine door to walk through. The work worth doing is usually behind a label nobody has made yet.
 
@@ -26,7 +29,7 @@ Good first issues are a fine door to walk through. The work worth doing is usual
 
 | | |
 | :--- | :--- |
-| languages | `Python` `TypeScript` `JavaScript` `Java` |
+| languages | `C` `Python` `TypeScript` `JavaScript` `Java` |
 | web | `React` `Next.js` `Node.js` |
 | learning machines | `PyTorch` `Transformers` `NumPy` |
 | storage | `SQL` `Postgres` |
