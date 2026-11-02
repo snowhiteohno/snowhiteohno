@@ -17,11 +17,14 @@ Read the code, find the thing nobody wants to touch, leave it better than I foun
 
 | Project | What landed |
 | :--- | :--- |
-| [CRIU](https://github.com/checkpoint-restore/criu) | 8 PRs in the Linux checkpoint/restore engine. TLS options across the RPC and C API surface, and a run of silent data loss fixes in tmpfs. |
+| [CRIU](https://github.com/checkpoint-restore/criu) | 11 PRs in the Linux checkpoint/restore engine. TLS options across the RPC and C API surface, and a run of silent data loss fixes in tmpfs. Two bug reports traced to the line, both fixed upstream within days. |
+| [Apache SkyWalking BanyanDB](https://github.com/apache/skywalking-banyandb) | 4 PRs in the observability database. Multi-group Measure aggregation across schema-evolved groups, and a test suite for the bydbctl execution engine. |
 | [fetch.ai / innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) | security-scanner agent |
 | GirlScript Summer of Code | Pomodoro Garden, React |
 
 CRIU saves the contents of a tmpfs by shelling out to `tar`. It wasn't passing `--xattrs`, so extended attributes disappeared across a checkpoint. Nor `--acls`, so POSIX ACLs and file capabilities went with them. Nothing warned. Each fix ships with a regression test that fails before it and passes after.
+
+The same gap turned up in ghost files, the deleted-but-still-open ones, where it runs into something a flag cannot reach: an ACL carries uids and a v3 capability carries a rootid, so the bytes mean different things on either side of a user namespace.
 
 Good first issues are a fine door to walk through. The work worth doing is usually behind a label nobody has made yet.
 
@@ -29,7 +32,7 @@ Good first issues are a fine door to walk through. The work worth doing is usual
 
 | | |
 | :--- | :--- |
-| languages | `C` `Python` `TypeScript` `JavaScript` `Java` |
+| languages | `C` `Go` `Python` `TypeScript` `JavaScript` `Java` |
 | web | `React` `Next.js` `Node.js` |
 | learning machines | `PyTorch` `Transformers` `NumPy` |
 | storage | `SQL` `Postgres` |
